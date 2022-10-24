@@ -75,12 +75,6 @@ body{
 .social__links ul :hover{
     background: #495bfd;
 }
-/* .social__links ul .youtube:hover{
-    background:#FF0000;
-}
-.social__links ul .github:hover{
-    background: #333;
-}  */
 @media only screen and (max-width: 549px) {
     .container{
         width: 80vw;
